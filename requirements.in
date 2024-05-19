@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchainhub
+langchain-google-genai
+chroma-hnswlib
+chromadb
+google-ai-generativelanguage
+google-auth
+google-generativeai
+requests
+beautifulsoup4
